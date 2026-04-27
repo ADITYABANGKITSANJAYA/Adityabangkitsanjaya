@@ -1,4 +1,4 @@
-# Program pengecekan umur
+# Tugas 1.py
 
 umur = int(input("Masukkan umur anda: "))
 
